@@ -15,7 +15,15 @@ public class practice {
 //		System.out.println("tula mahit ahe ka:" +b);
 //		System.out.println(c);
 //		System.out.println(d);
-		Scanner s=new Scanner(System.in)
+		Scanner vk=new Scanner(System.in);
+		System.out.print("Enter a num: ");
+		int num=vk.nextInt();
+		
+		if(num % 2 == 0)
+			System.out.println("this is even number:"+num);
+		else
+			System.out.println("this is odd number:"+num);
+		
 
 	}
 

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Assignment-1 Operators Decision Making and Control Structure/src"/>
+	<classpathentry kind="src" path="Assignment-2 Function and Recursion/src"/>
+	<classpathentry kind="src" path="Banking Application/src"/>
+	<classpathentry kind="src" path="Day1_Github/src"/>
+	<classpathentry kind="src" path="Day10-_Array/src"/>
+	<classpathentry kind="src" path="Day11_String, StringBuffer, StringBuilder and String Tokenizer/src"/>
+	<classpathentry kind="src" path="Day12_Exception Handling/src"/>
+	<classpathentry kind="src" path="Day13_Collection1.1_ArrayList, LinkedList, Vector and Stack/src"/>
+	<classpathentry kind="src" path="Day14_Collection1.2/src"/>
+	<classpathentry kind="src" path="Day15_Java Generics/src"/>
+	<classpathentry kind="src" path="Day16_JUnit5/src"/>
+	<classpathentry kind="src" path="Day17_Multithreading/src"/>
+	<classpathentry kind="src" path="Day18_Date-time API/src"/>
+	<classpathentry kind="src" path="Day19_JDBC/src"/>
+	<classpathentry kind="src" path="Day2_Intro_to_Java/src"/>
+	<classpathentry kind="src" path="Day20_JDBC_CRUD/src"/>
+	<classpathentry kind="src" path="Day21_Java Annotations/src"/>
+	<classpathentry kind="src" path="Day22_Lambda Expression/src"/>
+	<classpathentry kind="src" path="Day23_Stream API/src"/>
+	<classpathentry kind="src" path="Day24_Java Enum and Regular Expression/src"/>
+	<classpathentry kind="src" path="Day25_Concurrency/src"/>
+	<classpathentry kind="src" path="Day26_JDBC CRUD- Layered Architecture/src"/>
+	<classpathentry kind="src" path="Day27_Go Shopping Application/src"/>
+	<classpathentry kind="src" path="Day3_Intro to OOPs_Class and object/src"/>
+	<classpathentry kind="src" path="Day4_Encapsulation,Packages,Abstaction/src"/>
+	<classpathentry kind="src" path="Day5_Inheritance_Scanner_Buffered Reader/src"/>
+	<classpathentry kind="src" path="Day6_Abstract,final and super keyword/src"/>
+	<classpathentry kind="src" path="Day7_this, static and instanceof operator/src"/>
+	<classpathentry kind="src" path="Day8_Polymorphism/src"/>
+	<classpathentry kind="src" path="Day9_Interfaces and wrapper class/src"/>
+	<classpathentry kind="src" path="Pattern_Practice/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

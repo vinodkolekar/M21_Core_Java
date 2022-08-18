@@ -7,8 +7,8 @@ public class Client
 
 	public static void main(String[] args) 
 	{
-		SavingAcc s= new MMSavingAcc(12345, "Shabnam", 60000, true);
-		CurrentAcc c= new MMCurrentAcc(11111, "Shab", 80000, 20000);
+		SavingAcc s= new MMSavingAcc(12345, "Vinod", 12300, true);
+		CurrentAcc c= new MMCurrentAcc(11111, "Sachin", 32100, 56700);
 		
 		System.out.println("Saving Account");
 		s.withdraw(s.getAccBal());

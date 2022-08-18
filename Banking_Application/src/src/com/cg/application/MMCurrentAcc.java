@@ -1,4 +1,4 @@
-package com.cg.application;
+package src.com.cg.application;
 import com.cg.framework.CurrentAcc;
 
 public class MMCurrentAcc extends CurrentAcc 

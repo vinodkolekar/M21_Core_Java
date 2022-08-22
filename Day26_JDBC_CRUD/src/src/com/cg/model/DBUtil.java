@@ -9,7 +9,7 @@ public class DBUtil {
 		String dbDriver="com.mysql.cj.jdbc.Driver";
 		String dbURL="jdbc:mysql://localhost:3306/capgemini";
 		String dbUserName="root";
-		String dbPassword="sanidamenu";
+		String dbPassword="Vinod.vk.18";
 		try
 		{
 			//to check whether the eclipse is connected with mysql or not

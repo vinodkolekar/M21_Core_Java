@@ -9,7 +9,7 @@ public class UpdateEmployee {
 	public static void main(String[] args) {
 		String dbURL="jdbc:mysql://localhost:3306/capgemini";
 		String dbUserName="root";
-		String dbPassword="sanidamenu";
+		String dbPassword="Vinod.vk.18";
 		try
 		{
 			Connection c=DriverManager.getConnection(dbURL, dbUserName, dbPassword);
